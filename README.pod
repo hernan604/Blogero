@@ -1,0 +1,15 @@
+=encoding utf8
+
+=head1 NAME
+
+Blogero - Create blog, cms and the likes * work in progress *
+
+=head1 DESCRIPTION
+
+Blogero is a mojolicious solution to create blog, cms and the likes. 
+
+Blogero develpment begins oficially: Wed Jul 9 13:31:26 BRT 2014
+
+=head1 AUTHOR
+
+Hernan Lopes
